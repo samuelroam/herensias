@@ -1,4 +1,4 @@
 
-public class Autonomo {
+public class Autonomo extends Persona {
 
 }
